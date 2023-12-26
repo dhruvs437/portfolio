@@ -5,7 +5,7 @@ Artvault is a web application that allows users to upload and share their art wi
 ## Development Environment Setup
 
 1. Install NodeJs and add to path
-2. Open terminal in the project directory.
+2. Open terminal in the project directory
 3. Type npm install
 4. Type npm hardhat compile
 5. Type npm hardhat node

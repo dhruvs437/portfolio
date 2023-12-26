@@ -1,27 +1,27 @@
 {
-	"name": "Dhruv Rishishwar",
+	"name": "Dhruv Singh",
 	"description": "I am a full-stack web developer, pursuing my B.Tech in Computer Science & Engineering from Indian Institute of Information Technology, Design and Manufacturing Jabalpur. I strive to make meaningful applications while keeping scalability and user experience in mind.",
 	"profile": {
 		"imageUrl": "/data/about/profile.jpeg",
-		"imageAlt": "Picture of Dhruv Rishishwar"
+		"imageAlt": "Picture of Dhruv Singh"
 	},
 	"contact": {
 		"email": {
-			"href": "mailto:dhruvrishishwar2@gmail.com",
-			"text": "dhruvrishishwar2@gmail.com",
+			"href": "mailto:dhruvsinghs437@gmail.com",
+			"text": "dhruvrsinghs437@gmail.com",
 			"icon": "fa-solid fa-envelope"
 		},
 		"phone": {
-			"href": "tel:+916268086918",
-			"text": "+91 6268086918",
+			"href": "tel:+918169323941",
+			"text": "+91 8169323941",
 			"icon": "fa-solid fa-phone"
 		},
 		"linkedin": {
-			"href": "https://www.linkedin.com/in/dhruvrishishwar/",
-			"text": "dhruvrishishwar",
+			"href": "https://www.linkedin.com/in/dhruv-singh-2297a216b/",
+			"text": "dhruvsingh",
 			"icon": "fa-brands fa-linkedin"
 		}
 	},
-	"githubUrl": "https://github.com/Sneakyhydra",
-	"linkedinUrl": "https://www.linkedin.com/in/dhruvrishishwar/"
+	"githubUrl": "https://github.com/dhruvs437",
+	"linkedinUrl": "https://www.linkedin.com/in/dhruv-singh-2297a216b/"
 }

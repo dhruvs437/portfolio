@@ -1,10 +1,6 @@
 {
 	"Languages": [
 		{
-			"name": "Python",
-			"icon": "fa-brands fa-python"
-		},
-		{
 			"name": "C++",
 			"icon": "fa-solid fa-c"
 		},
