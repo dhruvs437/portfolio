@@ -1,27 +1,16 @@
 {
 	"ontheway": {
-		"title": "On The Way",
-		"description": "Student Counselling System",
+		"title": "Trenders",
+		"description": "E-commerce Website",
 		"githubUrl": "https://github.com/Sneakyhydra/On-The-Way",
-		"techStack": ["React", "Node", "MySQL"],
-		"liveUrl": "https://on-the-way-sneakyhydra.vercel.app/"
+		"techStack": ["React", "Node", "MongoDB"],
+		"liveUrl": "https://fabulous-sopapillas-0210c7.netlify.app/"
 	},
 	"sentinel": {
-		"title": "Sentinel",
-		"description": "Offline Voice Assistant",
-		"githubUrl": "https://github.com/Sneakyhydra/Sentinel",
-		"techStack": ["Python"]
-	},
-	"stakemate": {
-		"title": "Stake Mate",
-		"description": "Decentralized Staking Platform",
-		"githubUrl": "https://github.com/Sneakyhydra/StakeMate",
-		"techStack": ["React", "Node", "Solidity", "Truffle"]
-	},
-	"artvault": {
-		"title": "Art Vault",
-		"description": "NFT Marketplace",
-		"githubUrl": "https://github.com/Sneakyhydra/ArtVault",
-		"techStack": ["Next", "Solidity", "Hardhat"]
+		"title": "CollegeGram",
+		"description": "Image sharing web Application",
+		"githubUrl": "https://github.com/dhruvs437/collegegram",
+		"techStack": ["React", "Node", "MongoDB"],
+		"liveUrl":"https://collegegram-dhruv.vercel.app/"
 	}
 }
