@@ -1,2 +1,31 @@
 {
+    "patrika News":{
+        "title":"Patrika News",
+        "url":"https://www.patrika.com/",
+        "logo":"https://cms.patrika.com/wp-content/uploads/static-assets/new-patrika-logo.png",
+        "startDate":"March 2024",
+        "endDate":"Ongoing",
+        "location":"Jaipur, Rajasthan, India",
+        "role":"Software Developer",
+        "responsibilities":["Executed cost reduction strategies by migrating from Cloudflare optimization to WordPress VIP, enhancing image optimization and delivery, achieving a 30% reduction in server costs.",
+         "Enhanced core web vitals for the Patrika News webpage, increasing Google ranking by 20%, with a 50% improvement in CLS and LCP metrics.",
+          "Created short video features for web and mobile platforms, leading to a 25% increase in user engagement.",
+          "Refined state management using Zustand with Next.js, optimizing application performance and scalability.",
+          "Implemented a Native ads feature using Google Ad Manager, leading to a direct increase in ad revenue."],
+        "technologies":[" Next.js"," Tailwind CSS"," Graph QL"," Zustand"," JavaScript"," Typescript", " Google Ad Manager", " Core Web Vitals", " JIRA"]
+    },
+    "Zithera It And Consulting":{
+        "title":"Zithera It And Consulting",
+        "url":"https://zithera.com.au/",
+        "logo":"https://zithera.com.au/wp-content/uploads/elementor/thumbs/logo-button-1-pntgvf72ergnt53vgnumxagn9bliv1i18fgjw3m1b4.png",
+        "startDate":"January 2024",
+        "endDate":"February 2024",
+        "location":"Sydney, Australia",
+        "role":"Frontend Developer",
+        "responsibilities":["Engineered and integrated an image annotation feature using markerjs2 for a healthcare project, improving medical imaging accuracy by 15%.",
+         "Developed a Daybook Task event feature similar to Apple Calendar, streamlining task scheduling and increasing team productivity by 20%.",
+          "Resolved critical CSS issues, improving the overall responsiveness and user experience of the project."],
+        "technologies":[" React Js","CSS","REST API"," Redux"," JavaScript"," Typescript", " CSS", " ASANA", " Hubstaff"]
+    }
+    
 }

@@ -21,7 +21,7 @@ const ExperienceCard = ({
 	return (
 		<Card className={styles.card}>
 			<Card.Header className={'text-center ' + styles.header}>
-				{startDate + ' --- ' + endDate}
+				{startDate + '  -  ' + endDate}
 			</Card.Header>
 			<Card.Body className={styles.body}>
 				<a href={url} target='_blank' className={styles.imgContainer}>

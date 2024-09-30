@@ -14,6 +14,9 @@ const nextConfig = {
 
 		return config;
 	},
+	images: {
+		domains: ['cms.patrika.com','zithera.com.au'],
+	  },
 };
 
 module.exports = nextConfig;
