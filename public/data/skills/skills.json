@@ -7,6 +7,10 @@
 		{
 			"name": "Javascript",
 			"icon": "fa-brands fa-js"
+		},
+		{
+			"name":"Typescript",
+			"icon":"fa-brands fa-r"
 		}
 	],
 	"Web Development": [
@@ -31,8 +35,12 @@
 			"icon": "fa-brands fa-r"
 		},
 		{
-			"name":"Typescript",
-			"icon":"fa-brands fa-r"
+			"name": "Tailwind CSS",
+			"icon": "fa-solid fa-css3-alt"
+		},
+		{
+			"name": "Material UI",
+			"icon": "fa-solid fa-cubes"
 		}
 	],
 	"Databases": [
@@ -43,7 +51,12 @@
 		{
 			"name": "MongoDB",
 			"icon": "fa-solid fa-m"
+		},
+		{
+			"name": "PostgresSQL",
+			"icon": "fa-solid fa-database"
 		}
+
 	],
 	"Tools": [
 		{
@@ -53,6 +66,11 @@
 		{
 			"name": "Github",
 			"icon": "fa-brands fa-github"
+		}
+		,
+		{
+			"name": "Jira",
+			"icon": "fa-brands fa-jira"
 		}
 	]
 }
